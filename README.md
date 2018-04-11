@@ -1,6 +1,7 @@
 # zhaokk_app
 
 > 这个是一个vue和mint ui的h5移动程序
+详情点击：https://blog.csdn.net/zhaokk_git/article/details/78854881
 
 ## Build Setup
 
